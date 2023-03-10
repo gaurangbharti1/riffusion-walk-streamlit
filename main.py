@@ -69,9 +69,8 @@ def send_data(text, duration, name):
 #Streamlit App
 
 text_in = st.text_input('Enter a prompt describing an audiovisual', max_chars=100)
-duration = st.slider("Duration (seconds)", 4, 7, 5)
+input_duration = st.slider("Duration (seconds)", 4, 7, 5)
 workflow_name = "stable-riffusion-walk"
-input_duration = 5
 
 button1 = st.button("Riffusion Walk")
 
