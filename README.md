@@ -9,7 +9,7 @@ Some example generations:
 
 
 <video width="300" height="300" controls> 
-    <source src= "https://github.com/gaurangbharti1/riffusion-walk-streamlit/raw/main/Videos/skull_demon.mp4">
+    <source src= "Videos/skull_demon.mp4">
 </video>
 
 Audio prompt: Hans Zimmer
@@ -19,7 +19,7 @@ Video prompt: Skull demon sorcerer Concept art portrait by Terese Nielsen, Brom,
 <br>
 
 <video width="300" height="300" controls>
-    <source src="https://github.com/gaurangbharti1/riffusion-walk-streamlit/raw/main/Videos/floating_island_waterfall.mp4">
+    <source src="Videos/floating_island_waterfall.mp4">
 </video>
 
 Audio prompt: Relaxing, Floating, Waterfall
@@ -29,7 +29,7 @@ Video prompt: floating island in the clouds, nice weather, trees, a wooden house
 <br>
 
 <video width="300" height="300" controls>
-    <source src="https://github.com/gaurangbharti1/riffusion-walk-streamlit/raw/main/Videos/pixel_fighting_game_new_orleans_blues.mp4">
+    <source src="Videos/pixel_fighting_game_new_orleans_blues.mp4">
 </video>
 
 Audio prompt: New Orleans Blues
